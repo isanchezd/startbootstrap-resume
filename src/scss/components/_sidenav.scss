@@ -1,6 +1,6 @@
-// 
+//
 // Sidenav
-// 
+//
 
 #sideNav {
     padding-left: 1rem;
@@ -33,6 +33,7 @@
 
         width: $sidebar-base-width;
         height: 100vh;
+        border-right: 1px solid $secondary;
 
         .navbar-brand {
             display: flex;
